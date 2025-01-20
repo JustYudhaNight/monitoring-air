@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "161181161682",
+    "firebase_url": "https://monitoring-air-quality-b0c30-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "monitoring-air-quality-b0c30",
+    "storage_bucket": "monitoring-air-quality-b0c30.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:161181161682:android:d459159de58c2ccdfcb50b",
+        "android_client_info": {
+          "package_name": "com.example.firebase_air_quality_2"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAXQ4tqNexp_2I63SLxt2vLbMgtdLqCvMQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
